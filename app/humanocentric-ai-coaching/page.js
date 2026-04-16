@@ -3,7 +3,6 @@
 import PremiumStyles from '../../components/ModernPremium.module.css';
 import Header from '../../components/Header';
 import Footer from '../../components/Footer';
-import Image from 'next/image';
 import { motion } from 'framer-motion';
 
 export default function HumanocentricAICoaching() {
@@ -19,10 +18,11 @@ export default function HumanocentricAICoaching() {
       <Header />
       
       <main className={PremiumStyles.mainSection}>
-        {/* Hero Section */}
-        <header className={PremiumStyles.hero}>
+        {/* Hero Section - Bina Image Ke */}
+        <header className={PremiumStyles.hero} style={{ display: 'flex', justifyContent: 'center', textAlign: 'center' }}>
           <motion.div 
             className={PremiumStyles.heroContent}
+            style={{ maxWidth: '800px', margin: '0 auto' }}
             initial={{ opacity: 0, y: 50 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, ease: "easeOut" }}
@@ -32,23 +32,6 @@ export default function HumanocentricAICoaching() {
             <p className={PremiumStyles.tagline}>
               Professionals and organizations designed to strengthen AI fluency through prompt structuring, scenario analysis, tool selection, analytical reasoning, and responsible AI use.
             </p>
-          </motion.div>
-          
-          <motion.div 
-            className={PremiumStyles.imageWrapper} 
-            initial={{ opacity: 0, scale: 0.95 }}
-            animate={{ opacity: 1, scale: 1 }}
-            transition={{ duration: 1.2, delay: 0.2 }}
-          >
-            <Image 
-              src="/assets/About Us Page Image Black background.png" 
-              alt="Humanocentric AI Coaching" 
-              fill
-              className={PremiumStyles.heroImage}
-              style={{ objectFit: 'contain' }}
-              priority
-            />
-            <div className={PremiumStyles.imageOverlay} />
           </motion.div>
         </header>
 
