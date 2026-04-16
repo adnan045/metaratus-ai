@@ -1,4 +1,4 @@
-// File: C:\Users\admin\Downloads\Archive (5)\app\innovatus\page.js
+// File: C:\Users\admin\Downloads\metaratus.ai\app\innovatus\page.js
 import * as entry from '../../../../app/innovatus/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

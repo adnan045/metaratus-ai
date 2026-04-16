@@ -1,4 +1,4 @@
-// File: C:\Users\admin\Downloads\Archive (5)\app\about-vision\page.js
+// File: C:\Users\admin\Downloads\metaratus.ai\app\about-vision\page.js
 import * as entry from '../../../../app/about-vision/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

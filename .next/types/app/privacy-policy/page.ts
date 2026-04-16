@@ -1,4 +1,4 @@
-// File: C:\Users\admin\Downloads\Archive (5)\app\privacy-policy\page.js
+// File: C:\Users\admin\Downloads\metaratus.ai\app\privacy-policy\page.js
 import * as entry from '../../../../app/privacy-policy/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
