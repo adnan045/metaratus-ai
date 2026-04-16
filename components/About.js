@@ -1,0 +1,46 @@
+import styles from "./About.module.css";
+import Image from "next/image";
+
+export default function About() {
+  return (
+    <section className={styles.about}>
+      <div className={styles.container}>
+        <div className={styles.grid}>
+          {/* Left Column - M Logo */}
+          <div className={styles.leftColumn}>
+            <div className={styles.logoContainer}>
+              <Image
+                src="/assets/M.png"
+                alt="Metaratus M Logo"
+                width={200}
+                height={200}
+                className={styles.aboutLogo}
+              />
+            </div>
+          </div>
+
+          {/* Right Column - Main Content */}
+          <div className={styles.rightColumn}>
+            <h2 className={styles.title}>
+              <div className={styles.tag}>[ about us ]</div>A Complete AI
+              Transformation Ecosystem{" "}
+            </h2>
+
+            <div className={styles.description}>
+              <p>
+                Metaratus® integrates software, hardware, strategic analysis, AI
+                consulting, automation engineering, workforce training, and
+                research-based insights into a unified AI ecosystem built for
+                SMBs and middle-market enterprises.
+              </p>
+            </div>
+
+            <button className={styles.button}>
+              Explore the Ecosystem <span className={styles.arrow}>↗</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}

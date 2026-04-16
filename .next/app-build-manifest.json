@@ -1,0 +1,281 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/chunks/app/_not-found/page-54cb8acaf02a537c.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/c526ea5aa28716b1.css",
+      "static/chunks/app/layout-40b447930ddc9d9c.js"
+    ],
+    "/api/contact/route": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/chunks/app/api/contact/route-bc239b8a37a30170.js"
+    ],
+    "/about-vision/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/493-0e952ae561f9b0b3.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/about-vision/page-39d2353886c3a11c.js"
+    ],
+    "/data-usage-and-ai-safety/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/data-usage-and-ai-safety/page-481b7a84f7c443bf.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/493-0e952ae561f9b0b3.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/contact/page-bced1a2907c8be7e.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/about/page-77e4183fba300f9c.js"
+    ],
+    "/consulting/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/493-0e952ae561f9b0b3.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/consulting/page-6d01611c6dcb59d5.js"
+    ],
+    "/humanocentric-ai-coaching/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/chunks/app/humanocentric-ai-coaching/page-bc239b8a37a30170.js"
+    ],
+    "/insights/ai-driven-business-plan/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/b795e4cb47f9225b.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/insights/ai-driven-business-plan/page-60636936101b6d6c.js"
+    ],
+    "/innovatus/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/493-0e952ae561f9b0b3.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/innovatus/page-04610f5faacaf6de.js"
+    ],
+    "/insights/hybrid-intelligence/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/b795e4cb47f9225b.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/insights/hybrid-intelligence/page-60636936101b6d6c.js"
+    ],
+    "/insights/humanocentric-ai/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/b795e4cb47f9225b.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/insights/humanocentric-ai/page-60636936101b6d6c.js"
+    ],
+    "/insights/philosophy-of-humanocentric-ai/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/b795e4cb47f9225b.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/insights/philosophy-of-humanocentric-ai/page-60636936101b6d6c.js"
+    ],
+    "/insights/knowledge-sake/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/b795e4cb47f9225b.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/insights/knowledge-sake/page-60636936101b6d6c.js"
+    ],
+    "/insights/prisma-framework-method/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/b795e4cb47f9225b.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/insights/prisma-framework-method/page-60636936101b6d6c.js"
+    ],
+    "/insights/prisma-framework/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/b795e4cb47f9225b.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/insights/prisma-framework/page-60636936101b6d6c.js"
+    ],
+    "/leadership-and-advisory/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/leadership-and-advisory/page-77e4183fba300f9c.js"
+    ],
+    "/insights/post-covid-ai-economy/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/b795e4cb47f9225b.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/insights/post-covid-ai-economy/page-60636936101b6d6c.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/e9745d4357deb6cb.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/page-028193989e5ecd59.js"
+    ],
+    "/insights/human-enablement/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/b795e4cb47f9225b.css",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/insights/human-enablement/page-60636936101b6d6c.js"
+    ],
+    "/pricing/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/493-0e952ae561f9b0b3.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/pricing/page-7756bd3d99a56241.js"
+    ],
+    "/prisma/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/493-0e952ae561f9b0b3.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/prisma/page-0fc8633578317ee8.js"
+    ],
+    "/research/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/493-0e952ae561f9b0b3.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/research/page-dd5c8842ca1e6110.js"
+    ],
+    "/privacy-policy/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/privacy-policy/page-481b7a84f7c443bf.js"
+    ],
+    "/training/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/493-0e952ae561f9b0b3.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/training/page-f6b05011f6309469.js"
+    ],
+    "/terms-and-conditions/page": [
+      "static/chunks/webpack-9ad409bff70d55a0.js",
+      "static/chunks/4bd1b696-c023c6e3521b1417.js",
+      "static/chunks/255-bc8b3b9a93d25a64.js",
+      "static/chunks/main-app-92e1d1fb8a1d36d3.js",
+      "static/css/efaffdc276f99cf6.css",
+      "static/chunks/481-626fdb7934d68317.js",
+      "static/chunks/535-e719f04704a6c057.js",
+      "static/chunks/app/terms-and-conditions/page-7b465ebf51e0dc85.js"
+    ]
+  }
+}
